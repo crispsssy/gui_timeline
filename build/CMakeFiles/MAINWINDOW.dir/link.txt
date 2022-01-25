@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libMAINWINDOW.a CMakeFiles/MAINWINDOW.dir/MAINWINDOW_autogen/mocs_compilation.cpp.o CMakeFiles/MAINWINDOW.dir/src/MainWindow.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libMAINWINDOW.a

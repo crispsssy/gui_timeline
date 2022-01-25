@@ -1,0 +1,10 @@
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/MAINWINDOW.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/Gui_Window.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/edit_cache.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/rebuild_cache.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/list_install_components.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/install.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/install/local.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/install/strip.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/MAINWINDOW_autogen.dir
+/Users/Crisps/Documents/cxx_study/Gui_Window/build/CMakeFiles/Gui_Window_autogen.dir
